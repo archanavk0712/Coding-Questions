@@ -1,5 +1,4 @@
 package DailyDose;
-
 public class CheckVowelsInString 
 {
 	public static void main(String[] args) 
